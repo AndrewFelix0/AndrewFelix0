@@ -11,6 +11,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/AndrewFelix0/Threat-Hunting)**
+- **[PEAK Threat Hunting Scenario (Data Exfiltration)](https://github.com/AndrewFelix0/Data-Exfiltration)**
 
 <hr/>
 
